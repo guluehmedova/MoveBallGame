@@ -1,4 +1,7 @@
 Task Description:
+
+
+
 Create a scene with object that moves with charachter controller vertically and horizontally on a plane object, and also jumps.
 Place different spherical objects with green, red, blue and black colors in your scene.
 Whenever the charachter controller touches the object, the the ball should disapear and:
